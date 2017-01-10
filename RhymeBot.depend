@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1448645320 source:c:\users\alex chrysanthem\desktop\rhymebot\fileparser.cpp
+	"FileParser.h"
+
+1448645320 c:\users\alex chrysanthem\desktop\rhymebot\fileparser.h
+	<fstream>
+	<iostream>
+	<algorithm>
+	<string>
+	<sstream>
+	<vector>
+	"RhymeBot.h"
+	"Sound.h"
+
+1449244723 c:\users\alex chrysanthem\desktop\rhymebot\rhymebot.h
+	<fstream>
+	<iostream>
+	<algorithm>
+	<string>
+	<sstream>
+	<vector>
+	"Sound.h"
+	<map>
+
+1448645320 c:\users\alex chrysanthem\desktop\rhymebot\sound.h
+	<fstream>
+	<iostream>
+	<algorithm>
+	<string>
+	<sstream>
+	<vector>
+	<set>
+	<map>
+	<string>
+
+1449355707 source:c:\users\alex chrysanthem\desktop\rhymebot\run.cpp
+	<iostream>
+	"RhymeBot.h"
+	"FileParser.h"
+	<map>
+	<vector>
+
+1449436496 source:c:\users\alex chrysanthem\desktop\rhymebot\rhymebot.cpp
+	"RhymeBot.h"
+	<iostream>
+	<map>
+	<vector>
+
